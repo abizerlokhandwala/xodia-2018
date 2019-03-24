@@ -1,0 +1,4 @@
+v,1,1 4 2 3
+v,0,3 3 2 4
+v,1,1 1 2 0
+l,0,1 1 2 0,INVALID INPUT STRING LENGTH
